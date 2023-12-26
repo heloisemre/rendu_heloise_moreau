@@ -1,0 +1,12 @@
+.bg-image {
+  position: absolute;
+  z-index: -1;
+  width: 100vw;
+  height: 240vh;
+  background-image: url(https://i.pinimg.com/originals/38/8d/73/388d7357134573077dd0861a058f1bd8.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  filter: blur(60px);
+  -webkit-filter: blur(4px);
+}
